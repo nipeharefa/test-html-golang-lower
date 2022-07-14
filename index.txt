@@ -1,0 +1,3 @@
+Hello {{ .username }}, Welcome to Dota 2 Community.
+
+Confirmation Token : {{ .confirmToken }}
